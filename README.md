@@ -41,3 +41,4 @@ Minha implementação da Semana Omnistack 10, com algumas alterações do projet
 - react-native-maps
 - react-native-web
 - socket.io-client
+
